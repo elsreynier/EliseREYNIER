@@ -1,0 +1,5 @@
+test nouveau fichier
+
+1.Clone d'un dépot
+2.Modifications
+3.TEster les éapes add/comt/push
