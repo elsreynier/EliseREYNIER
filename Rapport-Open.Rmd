@@ -1,0 +1,134 @@
+---
+title: "Rapport OPEN : l'E-Santé"
+author: "REYNIER Elise"
+date: "4ème année - Février 2023"
+output:
+  pdf_document: 
+    toc: yes
+    toc_depth: 3
+    number_sections: no
+    highlight: tango
+  html_document: default
+---
+
+  Notre système de santé est confronté de plus en plus à une demande de soins croissante, à une démographie médicale inéquitable, à un déficit budgétaire. Ajouté à cela, la progression des technologies ces dernières années dans le domaine de la santé mènent à la création de ce que l'on appelle l'E-santé. Cependant, malgré le fait que ces technologies soient bien développées, il reste un énorme effort à faire pour que cette organisation soit bien ancrée dans nos pratiques.
+  
+# I/Qu'est ce que l'E-Santé
+
+D’après l’Organisation mondiale de la santé (OMS), l’E-santé correspond aux « services du numérique au service du bien-être de la personne » cela fait donc référence à « l’application des technologies de l’information et de la communication (TIC) à l’ensemble des activités en rapport avec la santé ».
+
+Selon le décret du 19 octobre 2010 l’E-santé couvre la télémédecine au sens des systèmes d’informations des différents acteurs (sanitaires, médico-sociaux et ambulatoires autour du patient/usager), les projets et services ainsi que l’ensemble des nouveaux usages s’appuyant sur le numérique (dispositifs connectés, outils numériques pour le patient…).
+
+L’E-santé regroupe 3 grands domaines :
+
+-Systèmes d’information en santé : collecte des données sur la santé des individus et de la population (ex : dossier médical partagé (DMP)).
+
+-Télémédecine : pratique médicale à distance utilisant les technologies de l’information et de la communication (5 piliers : téléconsultation, a télé-expertise, télésurveillance, téléassistance, régulation).
+
+-Mobile santé, définie par l’OMS (2011) comme l’ensemble des « pratiques médicales et de santé publique supportées par des appareils mobiles, tels que les téléphones, les dispositifs de surveillance des patients, les PDA (personal digital assistant) et autres appareils sans fil » (exemple : le dispositif sommeil d’Apple).
+
+# II/Les enjeux de l'E-Santé
+
+L'E-santé relève de nombreux défis que ce soit par rapport aux patiens, aux professionels de santé, aux industriels et même aux laboratoires pharmaceutique.
+
+### 1.Sanitaire
+
+L'accès aux soins est l'un des enjeux sanitaires majeurs de la e-santé. En effet, elle peut améliorer l'accès aux soins pour les personnes vivant en milieu rural ou éloigné. Cependant, il faut veiller à ce que les personnes ayant un accès limité à Internet ou aux technologies de l'information ne soient pas laissées pour compte.
+Cet écart numérique entre les personnes peut aussi être lié à la classe sociale, à l'âge... Les politiques et programmes de E-santé doivent donc tenir compte de ces fractures numériques et s'efforcer de supprimer les obstacles à l'accès à la cybersanté pour tous les groupes de population.
+
+Le vieillissement de la population est également un enjeu majeur, il peut entraîner une augmentation de la demande de soins médicaux complexes et coûteux, ce qui peut surcharger les systèmes de santé existants. La E-santé peut aider à atténuer cet impact en fournissant des soins plus efficaces et efficients aux personnes âgées. Par exemple, les technologies de télésanté peuvent permettre aux médecins de surveiller les patients à distance, ce qui peut aider à réduire les hospitalisations inutiles et à améliorer la qualité de vie des patients.
+De plus, les technologies de E-santé peuvent aider les personnes âgées à mieux gérer leur santé en leur permettant de suivre leurs médicaments, leur état de santé et leurs activités quotidiennes en temps réel. Cela peut aider à prévenir les complications potentielles pour la santé et à améliorer l'indépendance des personnes âgées.
+Enfin, la e-santé peut également contribuer à soutenir les aidants qui s'occupent de personnes âgées en leur fournissant des informations, des conseils et des outils pour les aider dans leur tâche.
+
+### 2.Economique
+
+Les coûts initiaux de mise en place d'un système de santé numérique peuvent être élevés, en raison de l'acquisition de matériel et de logiciels, ainsi que de la formation du personnel. Cependant, des investissements continus sont nécessaires pour maintenir et améliorer les systèmes afin de s'adapter aux nouvelles technologies et aux besoins en constante évolution des patients. 
+
+La compatibilité est un autre défi important, car les systèmes doivent pouvoir communiquer efficacement entre eux pour permettre la circulation des informations médicales. 
+Les coûts de mise en œuvre tels que la formation du personnel, la conversion des données et les tests de qualité doivent également être pris en compte.
+
+La protection des données sensibles des patients est cruciale et les systèmes doivent être sécurisés pour éviter les fuites de données et les cyberattaques. 
+
+Enfin, il est important de trouver des moyens de financer efficacement les systèmes de santé en ligne pour les patients et les assureurs.Le choix du modèle de financement dépendra des priorités locales et des ressources disponibles. Il est important de considérer les avantages et les inconvénients de chaque option pour trouver un modèle de financement viable à long terme.
+
+### 3.Interne de rationalisation
+
+L'enjeu interne de la rationalisation de la e-santé est de garantir une utilisation optimale des systèmes de e-santé pour offrir des soins de santé de qualité aux patients. Cela implique une gestion efficace des coûts, une optimisation des ressources et une minimisation des déchets. 
+
+La gestion des coûts peut être améliorée en utilisant des systèmes de santé en ligne pour automatiser les processus, améliorer l'exactitude des données et promouvoir une utilisation plus efficace des ressources. 
+L'optimisation des ressources peut être obtenue en permettant aux professionnels de la santé de travailler de manière plus cohérente et en favorisant une utilisation plus efficace des ressources. Il est possible de minimiser le gaspillage en permettant aux professionnels de la santé de cibler plus efficacement les traitements. 
+
+En fin de compte, la rationalisation de la E-santé est essentielle pour garantir que les systèmes de santé en ligne sont utilisés de manière optimale pour fournir des soins de santé de qualité aux patients, améliorant ainsi les résultats pour les patients et réduisant les coûts pour les systèmes de santé.
+
+### 4.Symbolique
+
+L'utilisation de la e-santé peut avoir un impact symbolique sur les patients, les professionnels de santé et la société en général. 
+Le premier point majeur est le changement dans la perception de la santé. Les systèmes de santé en ligne permettent aux patients d'avoir un accès plus facile et plus direct aux informations sur leur santé et de leurs soins, ce qui peut transformer la façon dont la santé est perçue et abordée. En outre, les systèmes de santé en ligne peuvent autonomiser les patients en leur donnant accès à des informations sur leur santé et en les impliquant davantage dans la prise de décision en matière de soins de santé. 
+
+Enfin, l'adoption de systèmes de santé en ligne peut avoir un impact sur la société dans son ensemble en transformant la façon dont les soins de santé sont donnés et perçus.
+
+Par conséquent, ces systèmes doivent être utilisés de manière responsable et éthique pour fournir des soins de santé de qualité. Il est important de prendre en compte les impacts potentiels de ces technologies sur différents groupes et de travailler à les minimiser afin que les systèmes de e-santé puissent être utilisés de manière optimale pour améliorer la santé de tous.
+
+# III/Les avantages et inconvénients de l'E-Santé
+
+La e-santé offre de nombreux avantages aux patients, aux professionnels de santé et aux systèmes de santé en général. 
+
+Premièrement, les patients peuvent accéder en ligne à des informations sur la santé, ce qui les aide à prendre des décisions éclairées concernant leur santé et leur bien-être. 
+
+De plus, les patients peuvent également communiquer avec leur médecin en ligne, ce qui peut réduire les temps d'attente et les coûts associés aux visites en personne. Les professionnels de la santé peuvent utiliser les technologies de santé en ligne pour suivre les dossiers médicaux des patients, planifier des rendez-vous et fournir des soins plus efficaces. Les systèmes de santé peuvent également bénéficier de la télésanté en améliorant la coordination des soins, en optimisant l'utilisation des ressources et en réduisant les coûts globaux. 
+
+Enfin, la e-santé peut contribuer à améliorer la qualité des soins et à renforcer la confiance des patients dans le système de santé.
+
+L'évolution de la e-santé est freinée par plusieurs freins, notamment par l'utilisation d'Internet pour la santé qui peut poser problème.
+
+Les professionnels de santé ont la responsabilité de s'assurer que les informations diffusées en ligne sont exactes et sécurisées. 
+De même, les patients doivent être conscients des risques liés au partage de leurs données médicales en ligne et prendre les mesures nécessaires pour les protéger. 
+
+L'intégration de la technologie dans les soins de santé pose également des défis en termes de confidentialité et de sécurité des données. 
+
+Il est donc crucial de travailler en étroite collaboration entre les patients, les professionnels de la santé et les fournisseurs de technologie pour garantir que les avantages de la e-santé sont maximisés tout en minimisant les risques.
+
+# IV/Conclusion
+
+En conclusion, l'E-santé est un domaine en constante évolution dans le secteur médical. Cependant, elle présente des défis économiques, sanitaires et éthiques. 
+
+Bien qu'elle présente de nombreux avantages, elle comporte également des inconvénients. 
+
+La question reste donc ouverte quant à savoir si l'E-santé sera l'avenir de la médecine.
+
+# V/Bibliographie
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+</head>
+<body>
+<div class="csl-bib-body" style="line-height: 1.35; ">
+  
+  <div class="csl-entry" style="margin-bottom: 1em;">BABINET, Olivier et ISNARD BAGNIS, Corinne, 2020. 2. La e-santé&nbsp;: quèsaco&nbsp;? In&nbsp;: <i>La e-santé en question(s)</i> [en&nbsp;ligne]. Rennes&nbsp;: Presses de l’EHESP. pp.&nbsp;21‑33. Débats Santé Social. [Consulté&nbsp;le&nbsp;8&nbsp;février&nbsp;2023]. Disponible à l’adresse&nbsp;: <a href="https://www.cairn.info/la-e-sante-en-questions--9782810907533-p-21.htm">https://www.cairn.info/la-e-sante-en-questions--9782810907533-p-21.htm</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=2.%20La%20e-sant%C3%A9%C2%A0%3A%20qu%C3%A8saco%C2%A0%3F&amp;rft.place=Rennes&amp;rft.publisher=Presses%20de%20l%E2%80%99EHESP&amp;rft.series=D%C3%A9bats%20Sant%C3%A9%20Social&amp;rft.aufirst=Olivier&amp;rft.aulast=Babinet&amp;rft.au=Olivier%20Babinet&amp;rft.au=Corinne%20Isnard%20Bagnis&amp;rft.date=2020&amp;rft.pages=21-33&amp;rft.spage=21&amp;rft.epage=33&amp;rft.language=fr"></span>
+  
+  <div class="csl-entry" style="margin-bottom: 1em;">BARDOU, Delphine, 2021. Qu’est-ce que la e-santé et quel est son impact ? [MAJ 2023 ]. [en&nbsp;ligne]. 2021. [Consulté&nbsp;le&nbsp;8&nbsp;février&nbsp;2023]. Disponible à l’adresse&nbsp;: <a href="https://reassurez-moi.fr/guide/mutuelle-sante/e-sante">https://reassurez-moi.fr/guide/mutuelle-sante/e-sante</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=blogPost&amp;rft.title=Qu'est-ce%20que%20la%20e-sant%C3%A9%20et%20quel%20est%20son%20impact%20%3F%20%5BMAJ%202023%20%5D&amp;rft.description=Avec%20les%20nouvelles%20technologies%2C%20le%20milieu%20de%20la%20sant%C3%A9%20se%20r%C3%A9volutionne%20!%20T%C3%A9l%C3%A9consultations%2C%20nouvelles%20pratiques%20%3A%20on%20vous%20explique%20tout%20!&amp;rft.identifier=https%3A%2F%2Freassurez-moi.fr%2Fguide%2Fmutuelle-sante%2Fe-sante&amp;rft.aufirst=Delphine&amp;rft.aulast=BARDOU&amp;rft.au=Delphine%20BARDOU&amp;rft.date=2021"></span>
+  
+  <div class="csl-entry" style="margin-bottom: 1em;">BONNEAU, Nicolas, [sans date]. L’e-santé : quels sont ses avantages et inconvénients ? <i>santeplusmag</i> [en&nbsp;ligne]. [Consulté&nbsp;le&nbsp;8&nbsp;février&nbsp;2023]. Disponible à l’adresse&nbsp;: <a href="https://www.santeplusmag.com/le-sante-quels-sont-ses-avantages-et-inconvenients-medecine-000014509/">https://www.santeplusmag.com/le-sante-quels-sont-ses-avantages-et-inconvenients-medecine-000014509/</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.title=L%E2%80%99e-sant%C3%A9%20%3A%20quels%20sont%20ses%20avantages%20et%20inconv%C3%A9nients%20%3F&amp;rft.description=D%C3%A9couvrez%20dans%20cet%20article%20les%20avantages%20et%20les%20inconv%C3%A9nients%20de%20l%E2%80%99e-sant%C3%A9&amp;rft.identifier=https%3A%2F%2Fwww.santeplusmag.com%2Fle-sante-quels-sont-ses-avantages-et-inconvenients-medecine-000014509%2F&amp;rft.aufirst=Nicolas&amp;rft.aulast=Bonneau&amp;rft.au=Nicolas%20Bonneau&amp;rft.language=fr"></span>
+  
+  <div class="csl-entry" style="margin-bottom: 1em;">DUBREUIL, Muriel, 2019. E-SANTÉ DÉCRYPTAGE DES PRATIQUES ET DES ENJEUX. [en&nbsp;ligne]. mai 2019. Disponible à l’adresse&nbsp;: <a href="https://www.ors-idf.org/fileadmin/DataStorageKit/ORS/Etudes/2019/iSante/ORS_FOCUS_e_sante.pdf">https://www.ors-idf.org/fileadmin/DataStorageKit/ORS/Etudes/2019/iSante/ORS_FOCUS_e_sante.pdf</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=E-SANT%C3%89%20D%C3%89CRYPTAGE%20DES%20PRATIQUES%20ET%20DES%20ENJEUX&amp;rft.aufirst=Muriel&amp;rft.aulast=DUBREUIL&amp;rft.au=Muriel%20DUBREUIL&amp;rft.date=2019-05"></span>
+  
+  <div class="csl-entry" style="margin-bottom: 1em;">I-SHARE, 2017. E-santé ou santé connectée : la santé du futur? <i>I-Share</i> [en&nbsp;ligne]. 1 novembre 2017. [Consulté&nbsp;le&nbsp;8&nbsp;février&nbsp;2023]. Disponible à l’adresse&nbsp;: <a href="https://www.i-share.fr/actualite/e-sante-ou-sante-connectee-la-sante-du-futur/">https://www.i-share.fr/actualite/e-sante-ou-sante-connectee-la-sante-du-futur/</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=blogPost&amp;rft.title=E-sant%C3%A9%20ou%20sant%C3%A9%20connect%C3%A9e%20%3A%20la%20sant%C3%A9%20du%20futur%3F&amp;rft.description=La%20pr%C3%A9sence%20de%20l%E2%80%99e-sant%C3%A9%20dans%20notre%20quotidien%20est%20de%20plus%20en%20plus%20forte.%20Ce%20ph%C3%A9nom%C3%A8ne%20suscite%20des%20questions%20quant%20%C3%A0%20l'avenir%20de%20notre%20sant%C3%A9.&amp;rft.identifier=https%3A%2F%2Fwww.i-share.fr%2Factualite%2Fe-sante-ou-sante-connectee-la-sante-du-futur%2F&amp;rft.aulast=I-SHARE&amp;rft.au=I-SHARE&amp;rft.date=2017-11-01&amp;rft.language=fr-FR"></span>
+  
+  <div class="csl-entry" style="margin-bottom: 1em;">MATHIAS BÉJEAN, JEAN-PAUL DUMOND, et JOHANA HABIB, 2015. Petit guide d’exploration&nbsp; au pays de&nbsp; la santé numérique. [en&nbsp;ligne]. 2015. Disponible à l’adresse&nbsp;: <a href="https://www.fondationdelavenir.org/wp-content/uploads/2015/11/2015_petitguide_sante_numerique.pdf">https://www.fondationdelavenir.org/wp-content/uploads/2015/11/2015_petitguide_sante_numerique.pdf</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Petit%20guide%20d%E2%80%99exploration%20%20au%20pays%20de%20%20la%20sant%C3%A9%20num%C3%A9rique&amp;rft.au=undefined&amp;rft.au=undefined&amp;rft.au=undefined&amp;rft.date=2015"></span>
+  
+  <div class="csl-entry" style="margin-bottom: 1em;">PAULINE LEROY, 2021., 2020. 3 enjeux qui révèlent l’importance de l’e-santé. <i>ESCadrille Toulouse Junior Conseil</i> [en&nbsp;ligne]. 12 novembre 2020. [Consulté&nbsp;le&nbsp;8&nbsp;février&nbsp;2023]. Disponible à l’adresse&nbsp;: <a href="https://www.escadrille.org/enjeux-e-sante/">https://www.escadrille.org/enjeux-e-sante/</a></div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=blogPost&amp;rft.title=3%20enjeux%20qui%20r%C3%A9v%C3%A8lent%20l'importance%20de%20l'e-sant%C3%A9&amp;rft.description=La%20sant%C3%A9%20se%20digitalise%20%C3%A9galement%20pour%20devenir%20l'e-sant%C3%A9%2C%20Apple%20montre%20qu'il%20est%20possible%20d'allier%20technologie%20et%20sant%C3%A9.%20Mais%20qu'est-ce%20que%20l'e-sant%C3%A9%20%3F&amp;rft.identifier=https%3A%2F%2Fwww.escadrille.org%2Fenjeux-e-sante%2F&amp;rft.aulast=PAULINE%20LEROY%2C%202021.&amp;rft.au=PAULINE%20LEROY%2C%202021.&amp;rft.date=2020-11-12&amp;rft.language=fr-FR"></span>
+  
+  
+  <div class="csl-entry">SAUTEREY, Valérie, 2013. Proposition d’introduction à l’intervention sur la e-santé. <i>Hegel</i>. 2013. Vol.&nbsp;3, n°&nbsp;3, pp.&nbsp;230‑231. DOI&nbsp;<a href="https://doi.org/10.3917/heg.033.0230">10.3917/heg.033.0230</a>. </div>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.3917%2Fheg.033.0230&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Proposition%20d%E2%80%99introduction%20%C3%A0%20l%E2%80%99intervention%20sur%20la%20e-sant%C3%A9&amp;rft.jtitle=Hegel&amp;rft.stitle=Hegel&amp;rft.volume=3&amp;rft.issue=3&amp;rft.aufirst=Val%C3%A9rie&amp;rft.aulast=Sauterey&amp;rft.au=Val%C3%A9rie%20Sauterey&amp;rft.date=2013&amp;rft.pages=230-231&amp;rft.spage=230&amp;rft.epage=231&amp;rft.issn=2269-0530&amp;rft.language=fr"></span>
+</div></body>
+</html>
